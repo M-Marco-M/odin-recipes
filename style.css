@@ -1,14 +1,16 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: wheat;
 }
 
 h1{
-    color:wheat;
-    background-color: darkgreen;
+    color: rgb(243, 214, 160);
+    background-color: rgb(9, 102, 29);
 }
 
 h2{
-   color: darkgreen;
+   color: rgb(9, 102, 29);
+   background-color: rgb(243, 214, 160);
 }
 
 .biglist{
