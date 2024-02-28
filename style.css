@@ -2,14 +2,12 @@
     outline: 2px black solid;
 }
 
-html{
-    box-sizing: border-box;
-}
 
 .main
 {
     background-color: wheat;
     margin: 0px 0px;
+    width: auto;
 }
 
 .main,
@@ -23,18 +21,13 @@ html{
     color: rgb(243, 214, 160);
     background-color: rgb(9, 102, 29);
     font-size: 40px;
-    width: auto;
-    margin: 0px auto;
+    text-align: center;
+    padding: 10px;
 }
 
 .scnd-title{
    color: rgb(9, 102, 29);
    background-color: rgb(243, 214, 160);
-}
-
-.frst-title{
-    padding: 8px;
-    margin-top: 0px;
 }
 
 .biglist{
