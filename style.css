@@ -14,7 +14,6 @@
 .frst-title,
 .scnd-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
 
 .frst-title{
@@ -23,6 +22,11 @@
     font-size: 40px;
     text-align: center;
     padding: 10px;
+    margin-top: 0px;
+}
+
+.big-foto{
+    margin-top: 0;
 }
 
 .scnd-title{
@@ -30,8 +34,12 @@
    background-color: rgb(243, 214, 160);
 }
 
+p{
+    margin: 10px;
+    font-size: 20px;
+}
+
 .biglist{
     font-weight: 600;
     font-size: 26px;
-
 }
