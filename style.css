@@ -35,7 +35,10 @@
    background-color: rgb(243, 214, 160);
 }
 
-p{
+p,
+ul,
+ol,
+li{
     margin: 10px;
     font-size: 20px;
 }
