@@ -1,16 +1,40 @@
-body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: wheat;
+*{
+    outline: 2px black solid;
 }
 
-h1{
+html{
+    box-sizing: border-box;
+}
+
+.main
+{
+    background-color: wheat;
+    margin: 0px 0px;
+}
+
+.main,
+.frst-title,
+.scnd-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.frst-title{
     color: rgb(243, 214, 160);
     background-color: rgb(9, 102, 29);
+    font-size: 40px;
+    width: auto;
+    margin: 0px auto;
 }
 
-h2{
+.scnd-title{
    color: rgb(9, 102, 29);
    background-color: rgb(243, 214, 160);
+}
+
+.frst-title{
+    padding: 8px;
+    margin-top: 0px;
 }
 
 .biglist{
