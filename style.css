@@ -53,6 +53,7 @@ li{
     display: inline-block;
 }
 
-.main-list .point{
-    
+.main-list img{
+    display: block;
 }
+
