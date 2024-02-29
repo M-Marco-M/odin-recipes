@@ -46,14 +46,20 @@ li{
 .main-list{
     font-weight: 600;
     font-size: 26px;
-    color:green;
 }
 
 .main-list div{
     display: inline-block;
+    
 }
 
 .main-list img{
     display: block;
 }
 
+.point{
+    background-color: rgb(9, 102, 29);
+    color: rgb(243, 214, 160);
+    text-align: center;
+
+}
