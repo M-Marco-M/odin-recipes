@@ -49,6 +49,10 @@ li{
     color:green;
 }
 
-.main-list .point{s
+.main-list div{
+    display: inline-block;
+}
+
+.main-list .point{
     
 }
